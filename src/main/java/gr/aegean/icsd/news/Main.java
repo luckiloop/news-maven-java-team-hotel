@@ -9,7 +9,7 @@ import java.util.Properties;
 public class Main {
     public static void main(String[] args) {
         // Βήμα 3: Αφαιρέστε το σχόλιο στην επόμενη γραμμή για ανάγνωση του resource.
-        // System.out.println("APP_NAME=" + readAppName());
+        System.out.println("APP_NAME=" + readAppName());
 
         NewsService service = new NewsService(SampleData.createNews());
 

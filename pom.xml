@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>GROUP_ID_HERE</groupId>
-    <artifactId>ARTIFACT_ID_HERE</artifactId>
-    <version>VERSION_HERE</version>
+    <groupId>gr.aegean.icsd</groupId>
+    <artifactId>news-maven-team-hotel</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>News Maven Workshop</name>
 
